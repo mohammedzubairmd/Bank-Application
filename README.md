@@ -19,6 +19,7 @@ A professional-grade, console-based banking application designed to handle core 
 * **API:** JDBC (Java Database Connectivity)
 
 **Architecture:**
+
 * **Layered Design:** Separated into UI, Business Logic (Service), and Data Access (DAO) layers for better maintainability.
 
 ---
@@ -121,5 +122,6 @@ getConnection.java: Database connection utility.
 metaData.java: Utility to print database schema info.
 ```
 
-Developed by: Mohammed Zubair | Date: 2026
+Developed by: Mohammed Zubair |
+Date: 2026
 
